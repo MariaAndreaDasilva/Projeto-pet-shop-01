@@ -1,11 +1,21 @@
-package Projeto01;
+package projeto;
+
+
+//Classe Animal, reque que o usuario tenha  como
+//entra , nome so animal se e cao ou gato ou outros
+//pra que  a entrada tenha sucesso.
+
+
+
+
+
+
 
 import java.util.Scanner;
 
 public class Animal {
 
-
-    private String cão;
+	private String cão;
     private String gato;
     private String outros;
     
